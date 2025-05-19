@@ -24,7 +24,7 @@ class _ConsultaEstoquePageState extends State<ConsultaEstoquePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text(''),
+        title: const Text('AAA'),
       ),
       body: Container(),
     );
